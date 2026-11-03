@@ -1,0 +1,14 @@
+*.ova
+*.ovf
+*.vmdk
+*.vdi
+*.qcow2
+*.img
+*.iso
+*.utm/
+*.vmem
+*.vmss
+.DS_Store
+.env
+*.pem
+*.key
